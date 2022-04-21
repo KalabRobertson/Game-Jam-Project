@@ -27,8 +27,8 @@ End Game Screen - https://www.artstation.com/artwork/8g3bx
 2D Platformer Project from MSCH-C220
 ## Future Development
 None
-# Created by: Hardstuck Bronze
-Kalab Robertson - Level Design and Game Engine Code
-Spencer Burdon - Enemy Design and Code
-Max Gast - Movement Code and Assets
-Jack Joseph - Creative Design/Vision and Planner
+# Created by: Hardstuck Bronze  
+Kalab Robertson - Level Design and Game Engine Code  
+Spencer Burdon - Enemy Design and Code  
+Max Gast - Movement Code and Assets  
+Jack Joseph - Creative Design/Vision and Planner  
