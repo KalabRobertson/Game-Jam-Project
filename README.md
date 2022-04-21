@@ -13,11 +13,22 @@ Finding the right assets was a major struggle in the beginning and really slowed
 
 ## Implementation
 Animated Assets, Music, Parallax, Interesting Level Design, Hazards, Attention to start and end game screens.  
-Assets, or resources used
+End Portal - https://opengameart.org/content/cosmic-time-magic-effect  
+Enemy Sprites - https://opengameart.org/content/bosses-and-monsters-spritesheets-ars-notoria  
+Music (Prórroga de Tiempo A) - https://patrickdearteaga.com/royalty-free-music/page-5/  
+Character Animated Sprite - https://pink-nantis.itch.io/robot-adventurer  
+Parallax Background - https://opengameart.org/content/3-parallax-backgrounds  
+Tileset - https://opengameart.org/content/witchy-platformer  
+Main Screen Background - https://www.thezorklibrary.com/history/dark_forest.html  
+Spawn Portal Animated Sprite - https://elthen.itch.io/2d-pixel-art-portal-sprites  
+End Game Screen - https://www.artstation.com/artwork/8g3bx  
 
 ## References
-
+2D Platformer Project from MSCH-C220
 ## Future Development
-
-# Created by: Group Name
-List of group members (and contributions)
+None
+# Created by: Hardstuck Bronze
+Kalab Robertson - Level Design and Game Engine Code
+Spencer Burdon - Enemy Design and Code
+Max Gast - Movement Code and Assets
+Jack Joseph - Creative Design/Vision and Planner
